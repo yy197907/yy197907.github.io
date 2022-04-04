@@ -1,1 +1,4 @@
 theme: jekyll-theme-slate
+[remote "origin"]
+  url=https://yy197907:Token@github.com/yy197907/yy197907.github.io
+  fetch=+refs/heads/*:refs/remotes/origin//*
